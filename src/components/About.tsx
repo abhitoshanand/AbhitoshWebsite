@@ -26,17 +26,17 @@ export function About() {
             <div className="p-4 md:p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <Briefcase className="mx-auto mb-3 md:mb-4 dark:text-gray-400" size={28} />
               <h3 className="font-semibold mb-1 md:mb-2 dark:text-white text-sm md:text-base">Experience</h3>
-              <p className="text-gray-600 dark:text-gray-400 text-sm">5+ years<br />Home Tuition (class VI to XII)</p>
+              <p className="text-gray-600 dark:text-gray-400 text-sm">5+ years<br />Private Tuition (class VI to XII)</p>
             </div>
             <div className="p-4 md:p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <GraduationCap className="mx-auto mb-3 md:mb-4 dark:text-gray-400" size={28} />
               <h3 className="font-semibold mb-1 md:mb-2 dark:text-white text-sm md:text-base">Education</h3>
-              <p className="text-gray-600 dark:text-gray-400 text-sm">B.Sc. with Physics Hons.<br />M.Sc.Physics<br/>Bachelor's in Education </p>
+              <p className="text-gray-600 dark:text-gray-400 text-sm">B.Sc. with Physics Hons.<br />M.Sc.Physics<br/>Bachelor of Education </p>
             </div>
           </div>
           
           <p className="text-gray-600 dark:text-gray-400 leading-relaxed text-sm md:text-base">
-            As a Physics enthusiast with five years of experience, I specialize in making complex physics concepts accessible and engaging for students. My teaching methodology has evolved significantly, enhanced by my microteaching training during my Bachelor's in Education and a five-month JCERT internship at government schools. The research experience gained through various projects during my B.Sc. and M.Sc. programs has been instrumental in developing effective and comprehensive lesson plans for my students.
+            As a Physics enthusiast with five years of experience, I specialize in making complex physics concepts accessible and engaging for students. My teaching methodology has evolved significantly, enhanced by my microteaching training during my Bachelor of Education and a five-month JCERT internship at government schools. The research experience gained through various projects during my B.Sc. and M.Sc. programs has been instrumental in developing effective and comprehensive lesson plans for my students.
           </p>
         </div>
       </div>
