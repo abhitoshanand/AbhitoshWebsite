@@ -11,9 +11,9 @@ export function Profile() {
         />
       </div>
       <div className="text-center md:text-left animate-slide-up max-w-xl">
-        <p className="text-lg font-semibold text-secondary dark:text-light mb-2">Hello, I'm</p>
+        <p className="text-lg font-semibold text-primary dark:text-light mb-2">Hello, I'm</p>
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 text-primary dark:text-white">Abhitosh Anand</h1>
-        <p className="text-xl sm:text-2xl text-secondary dark:text-light mb-8">Physics Teacher</p>
+        <p className="text-xl sm:text-2xl text-primary dark:text-light mb-8">Physics Teacher</p>
         <div className="flex gap-4 justify-center md:justify-start mb-8">
           <button onClick={() => window.open('/resume.pdf')} className="btn-secondary text-sm sm:text-base">
             Download CV
