@@ -1,9 +1,9 @@
 export const testimonialData = [
   {
-    name: "Priya Singh",
-    grade: "Class XII",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
-    text: "Sir's teaching methodology made complex physics concepts easy to understand. His practical examples and demonstrations helped me score 95% in my board exams."
+    name: "Raajvi Singh",
+    grade: "Class IX, J.H. Tarapore, Jamshedpur",
+    image: "/IMG-20241210-WA0002.jpg",
+    text: "Well what can I even say about him, he's litreally the best I don't remember the last time I had a doubt cause he explains every topic in such a detailed manner because of which every little concept is clear. He always tell the easiest way to solve any question which is very helpful. Many people don't like physics but trust me if he teaches you he would make it so easy. His dedication towards everyone is really inspiring."
   },
   {
     name: "Rahul Kumar",
