@@ -1,6 +1,6 @@
 export const galleryData = [
   {
-    url: "/20240621_103336.jpg",
+    url: "/Pic1.jpg",
     caption: "Interactive Physics Demonstration Session"
   },
   {
