@@ -8,7 +8,7 @@ export const testimonialData = [
   {
     name: "Arya Jha",
     grade: "Class XII, Rajendra Vidyalaya, Jamshedpur",
-    image: "/IMG-20241212-WA0029.jpg",
+    image: "/Remove background project.jpg",
     text: "Sir had been an amazing teacher! He made physics so easy to understand and cleared every single doubt I had. The way he made me practice really worked—I could remember all the textbook answers by the end of the year! Beyond that, he was like a big brother to me, always listening to my endless chatter while keeping me on track with my syllabus and assignments. Thank you for being so supportive and making learning such a positive experience!"
   },
   {
