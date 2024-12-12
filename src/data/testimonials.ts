@@ -6,10 +6,10 @@ export const testimonialData = [
     text: "Well what can I even say about him, he's litreally the best I don't remember the last time I had a doubt cause he explains every topic in such a detailed manner because of which every little concept is clear. He always tell the easiest way to solve any question which is very helpful. Many people don't like physics but trust me if he teaches you he would make it so easy. His dedication towards everyone is really inspiring."
   },
   {
-    name: "Rahul Kumar",
-    grade: "Class XI",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
-    text: "The way sir explains physics concepts with real-life examples makes the subject interesting. His problem-solving techniques are extremely helpful."
+    name: "Arya Jha",
+    grade: "Class XII, Rajendra Vidyalaya, Jamshedpur",
+    image: "/IMG-20241212-WA0029.jpg",
+    text: "Sir had been an amazing teacher! He made physics so easy to understand and cleared every single doubt I had. The way he made me practice really worked—I could remember all the textbook answers by the end of the year! Beyond that, he was like a big brother to me, always listening to my endless chatter while keeping me on track with my syllabus and assignments. Thank you for being so supportive and making learning such a positive experience!"
   },
   {
     name: "Anjali Sharma",
