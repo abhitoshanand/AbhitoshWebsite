@@ -24,11 +24,11 @@ export const galleryData = [
     caption: "Annual Science Exhibition"
   },
   {
-    url: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=800&h=1200",
+    url: "/20241212_114432.jpg",
     caption: "Physics Lab Equipment Setup"
   },
   {
-    url: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=1200",
+    url: "/20241212_114456.jpg",
     caption: "Students Presenting Their Research"
   }
 ];
