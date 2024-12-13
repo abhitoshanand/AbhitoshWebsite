@@ -25,10 +25,10 @@ export const galleryData = [
   },
   {
     url: "/20241212_114432.jpg",
-    caption: "Students Working on Physics Projects"
+    caption: "Students Working on Physics problem."
   },
   {
     url: "/20241212_114456.jpg",
-    caption: "Students Working on Physics Projects"
+    caption: "Students Working on Physics problem."
   }
 ];
