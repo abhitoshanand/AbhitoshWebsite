@@ -5,7 +5,7 @@ export function Profile() {
     <section id="profile" className="min-h-screen flex flex-col md:flex-row items-center justify-center gap-8 md:gap-12 px-4 md:px-16 py-20 md:py-0">
       <div className="w-48 h-48 sm:w-64 sm:h-64 md:w-96 md:h-96 rounded-full overflow-hidden animate-fade-in hover:scale-105 transition-transform duration-300 border-4 border-secondary shrink-0">
         <img
-          src="/20210915_235933_Nero AI_Photo_Face.jpeg"
+          src="/Abhitosh.jpeg"
           alt="Profile"
           className="w-full h-full object-cover"
         />
