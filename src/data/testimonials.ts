@@ -17,16 +17,5 @@ export const testimonialData = [
     image: "/IMG-20241213-WA0010_Nero AI_Photo_Face.jpeg",
     text: "Abhitosh Sir is a great physics teacher who has the profound knowledge of the subject, which has been equalled by the capability of simplifying complex ideas with such clarity and precision. The kind of teaching inspires curiosity and thus helps in instilling awe within the intricate details of physics. It is so patience yet engrossing that it gives everyone a sense of confidence while empowering them on the way to learning."
   },
-  {
-    name: "Arjun Patel",
-    grade: "Class XII",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
-    text: "Sir's structured approach to teaching and regular practice tests helped me build confidence in physics. His dedication to student success is inspiring."
-  },
-  {
-    name: "Neha Gupta",
-    grade: "Class XI",
-    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400",
-    text: "The study materials and notes provided by sir are comprehensive and well-organized. His teaching has made physics both enjoyable and understandable."
-  }
+  
 ];
