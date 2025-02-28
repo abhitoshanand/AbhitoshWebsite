@@ -9,7 +9,7 @@ export const galleryData = [
   },
   {
     url: "/20240621_102757.jpg",
-    caption: "Doing Yoga with students on Yoga day."
+    caption: "Performing Yoga with students on Yoga day."
   },
   {
     url: "/20231223_115938.jpg",
@@ -17,18 +17,18 @@ export const galleryData = [
   },
   {
     url: "/20231221_100218.jpg",
-    caption: "Students studying physics in classroom."
+    caption: "Students are studying physics in classroom."
   },
   {
     url: "/20231221_100158.jpg",
-    caption: "Students studying physics in classroom."
+    caption: "Students are studying physics in classroom."
   },
   {
     url: "/20241212_114432.jpg",
-    caption: "Students Working on Physics problem."
+    caption: "Annu Working on a Physics problem."
   },
   {
     url: "/20241212_114456.jpg",
-    caption: "Students Working on Physics problem."
+    caption: "Krishna Working on a Physics problem."
   }
 ];
