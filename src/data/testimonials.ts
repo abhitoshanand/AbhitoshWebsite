@@ -1,7 +1,7 @@
 export const testimonialData = [
   {
     name: "Aadhya Singh",
-    grade: "Class XII, Sheyn International School",
+    grade: "Class XII, Sheyn International School, Kandra",
     image: "/IMG-20241210-WA0002.jpg",
     text: "When people say that a teacher can shape a student’s perspective, I truly believe it because of Abhitosh Sir. His ability to simplify complex physics concepts, along with his patience and dedication, made learning an enjoyable experience. He not only strengthened my understanding but also boosted my confidence in the subject. I am truly grateful for their guidance and highly recommend him to anyone seeking an excellent physics tutor."
   },
