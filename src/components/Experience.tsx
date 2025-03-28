@@ -9,7 +9,7 @@ export function Experience() {
   const experiences = [
     {
       title: 'Teaching Intern',
-      period: 'Nov 2023 - Present',
+      period: 'Nov 2023 - Jan 2025',
       organization: 'Middle School Deogarh, Jamshedpur (JCERT Government Affiliated)',
       achievements: [
         'Developed and implemented 50 comprehensive lesson plans with dedicated teaching-learning materials',
